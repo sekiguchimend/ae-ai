@@ -42,6 +42,7 @@ coverage/
 *.zxp
 *.ccx
 CSXS/
+packages/cep/src/js/config.js
 
 # Temporary files
 tmp/
